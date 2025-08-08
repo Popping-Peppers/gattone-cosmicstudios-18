@@ -1,0 +1,21 @@
+{
+  "name": "Cosmic Studios - Allison Gattone's Portfolio",
+  "short_name": "Cosmic Studios",
+  "description": "Explore Allison Gattone's cosmic-themed digital portfolio showcasing skills in Digital Media Strategy, Content Creation, and Branding through an interactive constellation experience.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1A1F2C",
+  "theme_color": "#9b87f5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["portfolio", "design", "business"],
+  "lang": "en",
+  "scope": "/",
+  "prefer_related_applications": false
+}
